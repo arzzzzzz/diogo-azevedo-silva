@@ -1,4 +1,4 @@
-# Diogo-Azevedo-Silva
+# diogo azevedo silva
 Repositório usado para subir arquivos relacionado ao curso da DIO.
 Na ferramenta Excel, montei um simulador de investimento emfundos imobiliários, com aporte mensal, prazo em anos e taxade rendimento mensal. As perguntas respondidas, na aba INVESTIMENTO MENSAL, na ferramenta são:
 1. Quanto investir por mês? (Na linha 20)
